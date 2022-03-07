@@ -18,6 +18,7 @@ function App() {
       id: Math.random() + inputText,
     };
 
+
     // const arr: number[] = [];
     // const updatedArr = arr;
     // updatedArr.push(1);
